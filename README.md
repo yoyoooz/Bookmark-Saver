@@ -19,7 +19,6 @@ The app features an input form for adding bookmarks and a dynamic list that upda
 - 🗂️ Clean and minimal layout  
 - 🖱️ One-click button to add items  
 - 📱 Responsive and simple UI  
-- 🔗 Secure attribution link (`rel="noopener noreferrer"`)
 
 ---
 
