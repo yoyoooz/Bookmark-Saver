@@ -3,7 +3,7 @@
 A simple and functional **Bookmark Saver App** built using **HTML, CSS, and JavaScript**.  
 Users can add bookmarks by name and URL, and the list is displayed instantly on the page.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Bookmark-Saver/)  
 
 ---
 
@@ -30,5 +30,3 @@ The app features an input form for adding bookmarks and a dynamic list that upda
 - Add input validation for name and URL  
 - Add animations when adding or removing bookmarks  
 - Add categories/tags for organizing bookmarks
-
----
